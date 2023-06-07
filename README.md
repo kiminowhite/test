@@ -14,11 +14,10 @@ program
 
 📝 博客  服务器过期了（
 
-📫 联系方式 QQ:18717107362
+📫 联系我 QQ:18717107362
 
 🎮 Ps5/Switch/PC    最喜欢的游戏是LOL
 
 
 Connect with me:
-Languages and Tools:
-java linux spring navicat
+Languages and Tools:java linux spring navicat
